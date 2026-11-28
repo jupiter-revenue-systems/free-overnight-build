@@ -41,6 +41,6 @@ Claude on a paid plan that includes Claude Code, and a computer that can stay on
 
 - More free training: https://ekaistone.com/training
 - Your next free step is Before You Let AI Touch Your Business, in the training library.
-- Want training on advanced AI for your own business? Strategy Call, $750: https://ekaistone.com/strategy-session
+- Want training on advanced AI for your own business? Strategy Session, $750: https://ekaistone.com/strategy-session
 
 Free to use. (c) Jupiter Revenue Systems. Don't resell.

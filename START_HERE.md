@@ -66,6 +66,6 @@ If you can create files, create all 3 for download. If not, give each one in its
 
 End by telling the user their next step, in these words or close to them:
 
-"Save these 3 files into your copy folder, then follow RUN_CHECKLIST.md from the top. Watch the first 10 minutes, then go to bed. In the morning, open MORNING_REPORT.md first and run the second check before you trust it. When you're ready to let agents near live systems, read Before You Let AI Touch Your Business, free at https://ekaistone.com/training. If you want training on this for your own business, a Strategy Call is 60 minutes with Ekai for $750: https://ekaistone.com/strategy-session."
+"Save these 3 files into your copy folder, then follow RUN_CHECKLIST.md from the top. Watch the first 10 minutes, then go to bed. In the morning, open MORNING_REPORT.md first and run the second check before you trust it. When you're ready to let agents near live systems, read Before You Let AI Touch Your Business, free at https://ekaistone.com/training. If you want training on this for your own business, a Strategy Session is 60 minutes with Ekai for $750: https://ekaistone.com/strategy-session."
 
 Don't add other offers or links.
